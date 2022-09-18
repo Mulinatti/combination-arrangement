@@ -2,6 +2,8 @@
 
 ![preview](./.github/preview.png)
 
+[Clique para visualizar - Click to see](https://mulinatti.github.io/combination-arrangement/)
+
 Esse é um projeto que decidi fazer por conta própria. Basicamente é uma calculadora
 que faz o cálculo de Combinações e Arranjos com os valores passados nos Inputs.
 
